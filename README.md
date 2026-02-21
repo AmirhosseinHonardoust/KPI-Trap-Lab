@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 # The KPI Trap: When One Metric Quietly Breaks Your Model
 
 <img alt="Article" src="https://img.shields.io/badge/Type-Technical%20Article-6f42c1" />
