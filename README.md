@@ -17,7 +17,7 @@ The dashboard looks great: **AUC up**, **accuracy up**, the team celebrates. Two
 
 It got past evaluation because the model didn’t fail.
 **The metric did.**
- 
+
 This is the KPI Trap: **a single “success” metric improves while the real system gets worse**, because the metric isn’t measuring the thing you actually care about *at the decision point*.
 
 This article is about recognizing the trap early, designing evaluations that are hard to fool, and turning metric results into **policies you can defend**.
